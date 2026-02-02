@@ -1,8 +1,8 @@
 ## Personal information 
 
- | Full Name | Bhone Myat Thu | 
- | Student ID | 130203250 | 
- | E-mail address| bmthu@myseneca.ca |  
+- Full Name : **Bhone Myat Thu**
+- Student ID : **130203250**
+- Seneca Email Address: **bmthu.myseneca.ca** 
 
 
 ## Difference between a git "merge" and a GitHub "pull request" 
